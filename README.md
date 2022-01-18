@@ -8,14 +8,14 @@
 - [x] todo2
 - [x] todo3
 
-## todo1
+## 1. todo1
 
 ### 세부 작업 내용1
 
 ### 세부 작업 내용1
 
-## todo2
+## 2. todo2
 
-## todo3
+## 3. todo3
 
 ## 전달 사항
